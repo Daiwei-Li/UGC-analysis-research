@@ -8,3 +8,4 @@ Task:
 2. Sentiment Analysis(working on)
 3. image segmentation
 
+update July.18.2022: Sent the sentiment score ipynb file within Vader and Distilbert models. 
